@@ -18,3 +18,4 @@
 
 其它：
 - 《JavaScript 20 年》：[https://zhuanlan.zhihu.com/p/122334333](https://zhuanlan.zhihu.com/p/122334333)
+- 《每个程序员都应该知道的97件事》：[https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
